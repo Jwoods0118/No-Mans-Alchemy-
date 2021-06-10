@@ -1,8 +1,3 @@
-//Title: Game.h
-//Author: Jeremy Dixon
-//Date: 2/22/2021
-//Description: This is part of the No Man's Alchemy Project in CMSC 202 @ UMBC
-
 #ifndef GAME_H //Header Guard
 #define GAME_H //Header Guard
 #include <fstream>
