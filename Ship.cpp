@@ -1,7 +1,3 @@
-//Title Ship.cpp
-//Author: Josh Woods
-//Date: 3/11/21
-//Description: Ship.cpp file holds all of the methods for running the ship aspect of the game
 #ifndef SHIP_CPP
 #define SHIP_CPP
 #include "Material.h"
