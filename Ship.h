@@ -1,10 +1,3 @@
-//Title: Ship.h
-//Author: Jeremy Dixon
-//Date: 2/14/2021
-//Description: This is part of the No Man's Alchemy Project in CMSC 202 @ UMBC
-
-// The Ship class should have no cout statements
-
 #ifndef SHIP_H //Include/Header Guard
 #define SHIP_H //Include/Header Guard
 
