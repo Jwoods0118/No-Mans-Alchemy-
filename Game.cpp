@@ -1,8 +1,3 @@
-//Title Game.cpp
-//Author: Josh Woods
-//Date: 3/11/21
-//Description: Game.cpp holds all the methods for running the entirety of the game including
-//loading materials, searching materials, and starting the game
 #ifndef SHIP_CPP
 #define SHIP_CPP
 #include "Material.h"
